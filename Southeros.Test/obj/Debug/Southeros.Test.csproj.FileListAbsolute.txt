@@ -1,0 +1,17 @@
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Southeros.Test.dll
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Southeros.Test.pdb
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Set5Problem2_CSharp.exe
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Set5Problem2_CSharp.pdb
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Set5Problem2_CSharp.exe.config
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\obj\Debug\Southeros.Test.csprojAssemblyReference.cache
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\obj\Debug\Southeros.Test.csproj.CoreCompileInputs.cache
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\obj\Debug\Southeros.Test.csproj.CopyComplete
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\obj\Debug\Southeros.Test.dll
+C:\Users\enumu\source\repos\set5problem2_csharp\Southeros.Test\obj\Debug\Southeros.Test.pdb
